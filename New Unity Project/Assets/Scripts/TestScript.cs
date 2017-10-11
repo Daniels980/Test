@@ -8,7 +8,7 @@ public class TestScript : MonoBehaviour
 	//this bit is here for both of us
 	int Both = 5;
 
-	//place int Tim here
+	int Tim = 420;
 
 
 	//i'll put int Dan here
