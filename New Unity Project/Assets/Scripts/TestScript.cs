@@ -8,11 +8,11 @@ public class TestScript : MonoBehaviour
 	//this bit is here for both of us
 	int Both = 5;
 
-	//place int Tim here
+    //place int Tim here
 
 
-	//i'll put int Dan here
-
+    //i'll put int Dan here
+    int Dan = 9001;
 
 	void Start () 
 	{
